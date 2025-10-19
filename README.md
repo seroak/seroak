@@ -5,6 +5,7 @@ Frontend Developer
 <br/>
 
 ## 📚 Career
+- **zylo Systmes (2025l.06 ~ 2025.09)**
 - **Software Maestro (2024.03 ~ 2024.12)**
 - **Dankook University (2022.03 ~ 2024.02)**
 
