@@ -22,7 +22,7 @@ Frontend Developer
 
 <br/>
 
-<div align="center">
+<div align="">
   <a href="https://solved.ac/seroak/">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seroak" />
   </a>
