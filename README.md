@@ -22,18 +22,12 @@ Frontend Developer
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://solved.ac/seroak/">
-        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seroak" />
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=seroak&show_icons=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<div>
+  <a href="https://solved.ac/seroak/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seroak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=seroak&show_icons=true&theme=dracula" />
+</div>
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
