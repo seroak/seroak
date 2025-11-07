@@ -21,6 +21,7 @@ Frontend Developer
   인터랙티브하고 직관적인 사용자 경험을 구현했습니다.
 
 <br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seroak)](https://solved.ac/seroak/)
 
 ## 🛠 Tech Stack
