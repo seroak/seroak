@@ -22,9 +22,12 @@ Frontend Developer
 
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seroak)](https://solved.ac/seroak/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seroak&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://solved.ac/seroak/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seroak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=seroak&show_icons=true&theme=dracula" />
+</div>
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
