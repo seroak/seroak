@@ -28,7 +28,6 @@ Frontend Developer
   <a href="https://solved.ac/seroak/">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seroak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=seroak&show_icons=true&theme=dracula" />
 </div>
 
 ## 🛠 Tech Stack
